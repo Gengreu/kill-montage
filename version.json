@@ -1,0 +1,12 @@
+{
+ "version": "1.0",
+ "date": "2026-10-08",
+ "notes": "最初の公開",
+ "files": {
+  "engine.py": "c7a5edb9e1ca7fc9db6b9b9b0476f4b90e7dfb5d2df0ca694968a58c3a646fc3",
+  "killmontage.py": "4f5757f9a840b1e55ca64fd222915df3c62a4ba85fe5b6e8b4b030e499f1d93d",
+  "online.py": "836a2ec68450624bec5fc29f66a50770c8757c405040c4fcf46637216b640575",
+  "使い方.md": "1256f0731f53f6b41e8d82a2e110eb25a2ba1d41d9c9540ea2a9e5502f4167a5",
+  "assets/icon.ico": "65163f24808bf52db73aee2b751fe9d1ddedc1479c24950520615de8058f4e7d"
+ }
+}
